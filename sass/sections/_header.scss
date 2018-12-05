@@ -1,0 +1,21 @@
+#header{
+  padding-top: 20px;
+}
+
+#menu-hamburger{
+  float: right;
+  cursor: pointer;
+}
+
+.hello{
+  color: $p-gray;
+  font-size: 0.9em;
+  width: 50%;
+}
+
+#destello-icon{
+  position: relative;
+  z-index: 1;
+  left: 60%;
+  top: -80px;
+}
