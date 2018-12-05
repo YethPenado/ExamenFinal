@@ -16,6 +16,16 @@ h1 {
   padding-top: 10%;
 }
 
+h2 {
+  font-size: 3em;
+  color: #403d40;
+  text-align: center;
+}
+
+span {
+  color: #19b4c6;
+}
+
 #header {
   padding-top: 20px;
 }
@@ -38,9 +48,35 @@ h1 {
   top: -80px;
 }
 
+.img img {
+  width: 100%;
+}
+
+#footer {
+  background-color: #f2fbfb;
+}
+
+#telephone {
+  margin: 0 auto;
+}
+
+.footer-info {
+  text-align: center;
+}
+
+.p-footer {
+  color: #aeadae;
+  font-size: 0.9em;
+}
+
 @media (min-width: 768px) {
   .hello {
     font-size: 0.9em;
+  }
+
+  .img {
+    width: 50% !important;
+    float: left;
   }
 }
 
