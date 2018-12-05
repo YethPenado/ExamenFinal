@@ -67,6 +67,8 @@ span {
 .p-footer {
   color: #aeadae;
   font-size: 0.9em;
+  padding-bottom: 20%;
+  text-align: center;
 }
 
 @media (min-width: 768px) {
